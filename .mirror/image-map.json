@@ -1,0 +1,43 @@
+{
+  "upstream_url": "https://github.com/RiDDiX/home-assistant-addons",
+  "upstream_branch": "main",
+  "mirror_image_prefix": "ghcr.io/woowtech/ha-mirror-",
+  "addons": [
+    {
+      "dir": "hamh",
+      "slug": "hamh",
+      "name": "Home-Assistant-Matter-Hub",
+      "upstream_image": "ghcr.io/riddix/home-assistant-matter-hub-addon",
+      "new_image": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon",
+      "version": "2.0.56",
+      "arches": [
+        "aarch64"
+      ],
+      "already_patched": false
+    },
+    {
+      "dir": "hamh-alpha",
+      "slug": "hamh-alpha",
+      "name": "Home-Assistant-Matter-Hub (Alpha)",
+      "upstream_image": "ghcr.io/riddix/home-assistant-matter-hub-addon",
+      "new_image": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon",
+      "version": "2.1.0-alpha.894",
+      "arches": [
+        "aarch64"
+      ],
+      "already_patched": false
+    },
+    {
+      "dir": "hamh-testing",
+      "slug": "hamh-testing",
+      "name": "Home-Assistant-Matter-Hub (Testing)",
+      "upstream_image": "ghcr.io/riddix/home-assistant-matter-hub-addon",
+      "new_image": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon",
+      "version": "4.1.0-testing.25",
+      "arches": [
+        "aarch64"
+      ],
+      "already_patched": false
+    }
+  ]
+}
