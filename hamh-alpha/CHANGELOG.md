@@ -1,10 +1,10 @@
-# v2.1.0-alpha.894
+# v2.1.0-alpha.895
 
 ## Changes
 
-- docs: list the alpha.894 additions (66024335)
-- test: subscribe over loopback (7e0c76ad)
-- fix(#450): keep the battery while its source blips (f03e2f42)
+- docs: list the alpha.895 additions (3ff51d26)
+- fix(#478): run the factory reset through the stop path (20639ce1)
+- fix(#477): show the connection attempts in the diagnostic export (6b748023)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
