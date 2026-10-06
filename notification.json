@@ -5,21 +5,21 @@
     "hamh-alpha": {
       "id": "hamh-alpha",
       "name": "Home-Assistant-Matter-Hub (Alpha)",
-      "version": "2.1.0-alpha.918",
+      "version": "2.1.0-alpha.921",
       "repository": "WOOWTECH/Woow_ha_matter_hub_add_on",
-      "source_sha": "283418b3ac41028a429625b096a7e83b5af3b11a",
+      "source_sha": "54115d8b35dcc5f8a00993e1b1d17f2a994a619a",
       "source_path": "hamh-alpha",
       "config_file": "config.yaml",
-      "config_sha256": "sha256:327581a8d23b9318134f99641f9845789fb1ac3680fea6609e06c22fb69d7971",
-      "archive_sha256": "sha256:ad97c256edf2083e78814ca0c70a06a87f7145d97dcbc7c8f25506317977b270",
-      "context_fingerprint": "sha256:dcb7ab918e5703b5209ac55950070270e825ce3decc7b974085d50affdc1438d",
-      "material_fingerprint": "sha256:d94e106e1df96ef35ded4c8ac1abb713c36481eede7e87d1ece1d70de71eb8be",
+      "config_sha256": "sha256:383d17785c190a18918f8bc20b433f38f544b5b54ab44225f37ceaee63190b15",
+      "archive_sha256": "sha256:16a1b1c58a2837e693b9f993825f5996e2035879477497655abdfff5f0c7a951",
+      "context_fingerprint": "sha256:43412e8baeeb89dbc571a5fd676c5569f837a30cdca11ec421efcec839fa4c5e",
+      "material_fingerprint": "sha256:cf50f66f3d685877a36182149760f39d53423459c372f8a6df77d42ac1cb86ca",
       "architectures": [
         "aarch64",
         "amd64"
       ],
       "config": {
-        "version": "2.1.0-alpha.918",
+        "version": "2.1.0-alpha.921",
         "image": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon",
         "slug": "hamh-alpha",
         "name": "Home-Assistant-Matter-Hub (Alpha)",
@@ -58,21 +58,21 @@
       "source_build_supported": false,
       "images": {
         "aarch64": {
-          "reference": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon:2.1.0-alpha.918",
-          "index_digest": "sha256:c42a4a28e2fdde0e92c1b8a630234518f269eeb7c84fc8c7cc934e5efea70767",
-          "digest": "sha256:08184a8853af513fa4f1d15f99b1ecbaf644619ec6953a1456b18b64d91734e4",
+          "reference": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon:2.1.0-alpha.921",
+          "index_digest": "sha256:fc016ee9afbb6463b8714132575aebc18453a0a5d85804cd2146e15cbffd8e3b",
+          "digest": "sha256:a4f8d16efdc62f70e0d9bc5c43257ea4be658b386d35b3dd853a2965f1b53d68",
           "source_revision": "bddd6646b846dc44b2ceb744d5a0229191d7ecef"
         },
         "amd64": {
-          "reference": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon:2.1.0-alpha.918",
-          "index_digest": "sha256:c42a4a28e2fdde0e92c1b8a630234518f269eeb7c84fc8c7cc934e5efea70767",
-          "digest": "sha256:6da7a5d49c4fcb0a8a96a052fa8f66a5f40a914d6f3b4ed2bb5b86b5910bd001",
+          "reference": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon:2.1.0-alpha.921",
+          "index_digest": "sha256:fc016ee9afbb6463b8714132575aebc18453a0a5d85804cd2146e15cbffd8e3b",
+          "digest": "sha256:0f0c642c9d3a78b964b08ec7b11a7bcc2b5ae9132381422ef48fc32f1ae02ef8",
           "source_revision": "bddd6646b846dc44b2ceb744d5a0229191d7ecef"
         }
       },
       "delivery": "published-image",
       "validation": "manifest+architecture-images+configured-CI",
-      "publisher_run_id": "37410306640",
+      "publisher_run_id": "37457243829",
       "channel": "prerelease"
     },
     "hamh-testing": {
