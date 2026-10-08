@@ -22,7 +22,7 @@
       "name": "Home-Assistant-Matter-Hub (Alpha)",
       "upstream_image": "ghcr.io/riddix/home-assistant-matter-hub-addon",
       "new_image": "ghcr.io/woowtech/ha-mirror-ghcr-io-riddix-home-assistant-matter-hub-addon",
-      "version": "2.1.0-alpha.921",
+      "version": "2.1.0-alpha.926",
       "arches": [
         "aarch64",
         "amd64"

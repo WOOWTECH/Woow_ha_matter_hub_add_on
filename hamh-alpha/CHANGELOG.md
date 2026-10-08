@@ -1,9 +1,9 @@
-# v2.1.0-alpha.921
+# v2.1.0-alpha.926
 
 ## Changes
 
-- feat(#506): add map name and floor number to vacuum custom service areas (65a0b159)
-- docs: list the alpha.920 device list log and session cleanup wording (6eeba605)
+- fix(#510): color right after On reaches HA (43b6939a)
+- docs: list the alpha.925 lock without PIN option (b5a2072e)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
