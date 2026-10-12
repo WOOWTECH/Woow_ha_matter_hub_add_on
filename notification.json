@@ -7,11 +7,11 @@
       "name": "Home-Assistant-Matter-Hub (Alpha)",
       "version": "2.1.0-alpha.932",
       "repository": "WOOWTECH/Woow_ha_matter_hub_add_on",
-      "source_sha": "4d82e9b23dceb6d9a01f51ec4edc1e9d18a85b78",
+      "source_sha": "cbca2d8ee17585c4498a565f5aa56c6bce455ef7",
       "source_path": "hamh-alpha",
       "config_file": "config.yaml",
       "config_sha256": "sha256:aa8d047edeabdc4509eed9a93ea6209f224fbf4479df5bf90b8d758c10d9bc5b",
-      "archive_sha256": "sha256:9f0dd0ecee8c88f6f792153fb66314cd908ff52efb3fee549887eb90ce5984b9",
+      "archive_sha256": "sha256:49782e5d701c95361f72bb080f5149667bd1dba9f3c8d1689d9d8c639a258b1d",
       "context_fingerprint": "sha256:e171fe0cbbb24e71870f14208c729e078d5d37d1444275699b639c24bc153378",
       "material_fingerprint": "sha256:1deaab13ea0c0fd9d61991f421bf41e18fc837ecf57cf59e85178ca00607129a",
       "architectures": [
@@ -72,7 +72,7 @@
       },
       "delivery": "published-image",
       "validation": "manifest+architecture-images+configured-CI",
-      "publisher_run_id": "38134152698",
+      "publisher_run_id": "38209726469",
       "channel": "prerelease"
     },
     "hamh-testing": {
@@ -80,11 +80,11 @@
       "name": "Home-Assistant-Matter-Hub (Testing)",
       "version": "4.1.0-testing.25",
       "repository": "WOOWTECH/Woow_ha_matter_hub_add_on",
-      "source_sha": "283418b3ac41028a429625b096a7e83b5af3b11a",
+      "source_sha": "cbca2d8ee17585c4498a565f5aa56c6bce455ef7",
       "source_path": "hamh-testing",
       "config_file": "config.yaml",
       "config_sha256": "sha256:f9184621480a896843d5919b59c6328d18d4c5a990561d8a443ecbca4f18f597",
-      "archive_sha256": "sha256:ad97c256edf2083e78814ca0c70a06a87f7145d97dcbc7c8f25506317977b270",
+      "archive_sha256": "sha256:49782e5d701c95361f72bb080f5149667bd1dba9f3c8d1689d9d8c639a258b1d",
       "context_fingerprint": "sha256:8f243f5ed475e679deac54bd86462a308be5d9af27aeb7285c3b4423d94ff2a0",
       "material_fingerprint": "sha256:60a3997cfe2985b055d61b2517ca1644831beb1cd154c8d57e2844a8d32ad002",
       "architectures": [
@@ -145,7 +145,7 @@
       },
       "delivery": "published-image",
       "validation": "manifest+architecture-images+configured-CI",
-      "publisher_run_id": "37410306640",
+      "publisher_run_id": "38209726469",
       "channel": "prerelease"
     },
     "hamh": {
@@ -153,11 +153,11 @@
       "name": "Home-Assistant-Matter-Hub",
       "version": "2.0.58",
       "repository": "WOOWTECH/Woow_ha_matter_hub_add_on",
-      "source_sha": "283418b3ac41028a429625b096a7e83b5af3b11a",
+      "source_sha": "cbca2d8ee17585c4498a565f5aa56c6bce455ef7",
       "source_path": "hamh",
       "config_file": "config.yaml",
       "config_sha256": "sha256:1b3fd62e85f97b026f4f697526172fc8ce64a1240fba0c4922aa6a3821b4858e",
-      "archive_sha256": "sha256:ad97c256edf2083e78814ca0c70a06a87f7145d97dcbc7c8f25506317977b270",
+      "archive_sha256": "sha256:49782e5d701c95361f72bb080f5149667bd1dba9f3c8d1689d9d8c639a258b1d",
       "context_fingerprint": "sha256:adafc81c5e842f5385ba23b88b904d879f77339e91943722bf81223400834430",
       "material_fingerprint": "sha256:b258da2aeccbb97e0582c5f18f56503d2c939aa270f17bf90b698a116d0c5bb4",
       "architectures": [
@@ -218,7 +218,7 @@
       },
       "delivery": "published-image",
       "validation": "manifest+architecture-images+configured-CI",
-      "publisher_run_id": "37410306640",
+      "publisher_run_id": "38209726469",
       "channel": "stable"
     }
   }
