@@ -1,11 +1,11 @@
-# v2.1.0-alpha.934
+# v2.1.0-alpha.937
 
 ## Changes
 
-- test: run the #491 on-then-level test on a fake clock (c5d230a6)
-- fix(#513): use set topology so SmartThings attaches the meter (b8c19f23)
-- docs: fix the alpha.933 cover line (5c1a2e07)
-- docs: list the alpha.933 cover open/close as position option (ee8091d2)
+- fix: stop the timed off countdown when a light turns off (61d076ab)
+- fix: drop a camera session when its answer can't be delivered (bba68bd3)
+- fix: give cameras the mandatory audio feature (6c53cf04)
+- docs: list the alpha.936 matter.js nightly (58618e21)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
