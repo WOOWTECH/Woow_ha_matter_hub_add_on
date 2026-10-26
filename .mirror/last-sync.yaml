@@ -1,5 +1,5 @@
-last_sync: 2026-10-25T08:24:52Z
+last_sync: 2026-10-26T08:55:12Z
 upstream_url: https://github.com/RiDDiX/home-assistant-addons
 upstream_branch: main
-upstream_commit: 92b5fe90f51a042cedda53676f88936a8329cac4
+upstream_commit: 0f02ea71d2744683ab666f4cda921a73689c2b9c
 mirror_image_prefix: ghcr.io/woowtech/ha-mirror-
