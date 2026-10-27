@@ -1,8 +1,8 @@
-# v2.1.0-alpha.946
+# v2.1.0-alpha.948
 
 ## Changes
 
-- feat(#507): add productNameFromModel bridge feature flag (a2b8b183)
+- docs(#526): clarify wedge watchdog is not for Google Home, mention 50 min rotation in schema and bridge-data comment (18ce47d0)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
