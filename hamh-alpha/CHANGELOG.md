@@ -1,9 +1,8 @@
-# v2.1.0-alpha.963
+# v2.1.0-alpha.965
 
 ## Changes
 
-- fix: wait for group sensors before bridge start (#540) (98399237)
-- docs: list alpha.962 in alpha notes, README table and features summary (4b5e0a59)
+- docs: clarify unique ID suffix requires app restart (f048b273)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
