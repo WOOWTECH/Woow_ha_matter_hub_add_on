@@ -41,8 +41,11 @@ and refreshed on every sync.
 
 | Workflow | Schedule | Purpose |
 |----------|----------|---------|
-| `mirror-sync`  | `17 3 * * *` UTC | Pull upstream code, refresh `upstream` branch, patch configs, rebuild `main` |
-| `image-mirror` | `47 4 * * *` UTC | Copy upstream container images to `ghcr.io/woowtech/ha-mirror-*` |
+| `mirror-sync`  | `17 3 * * *` UTC | Pull upstream code, refresh `upstream` branch, patch configs, rebuild `main`; then image copy → upgrade comparison → Release (pipeline #91) |
+| `image-mirror` | — (called by `mirror-sync`) | Copy upstream container images to `ghcr.io/woowtech/ha-mirror-*` |
+
+Only add-ons that pass the Store's upgrade comparison get a Release; see
+`.mirror/README.md` (Release gating).
 
 Manual runs: **Actions → mirror-sync / image-mirror → Run workflow**.
 
