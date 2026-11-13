@@ -1,10 +1,9 @@
-# v2.1.0-alpha.980
+# v2.1.0-alpha.984
 
 ## Changes
 
-- docs: list alpha.980 in README and docs (707d7ae5)
-- fix: non-admin token, ws close on auth change, refresh retry, hamh skip (11bfbdc0)
-- docs: list alpha.977, alpha.978 and alpha.979 in README (8eed0469)
+- fix: stable identity endpoint id clash, file overwrite, refresh retry budget (f11843c5)
+- docs: list alpha.983 in README and docs (24ff34a5)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
