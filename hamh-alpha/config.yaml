@@ -1,4 +1,4 @@
-version: "2.1.0-alpha.997"
+version: "2.1.0-alpha.998"
 image: ghcr.io/riddix/home-assistant-matter-hub-addon
 slug: hamh-alpha
 name: Home-Assistant-Matter-Hub (Alpha)
@@ -16,7 +16,7 @@ arch:
 ingress: true
 ingress_port: 0
 map:
-  - addon_config:rw
+  - app_config:rw
 options:
   app_log_level: info
   protocol_log_level: info
