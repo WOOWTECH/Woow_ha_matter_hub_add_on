@@ -1,9 +1,9 @@
-# v2.1.0-alpha.998
+# v2.1.0-alpha.1000
 
 ## Changes
 
-- fix: add-on refuses to start when /config is not mapped (Supervisor <2026.07.1, #553); mDNS address updates on retry (ff5ef41d)
-- docs: list alpha.997 in README and docs (11225b6e)
+- feat: new opt-in bridge flag preferEntityAlias uses first Home Assistant entity alias as Matter device name (#555) (8777d1fa)
+- docs: list alpha.998 and alpha.999 in README and docs (e884bd06)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
